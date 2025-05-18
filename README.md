@@ -1,6 +1,6 @@
 Hi 👋 I'm Dhruv, a B.Tech CSE student passionate about FullStack Development and Devops.<br>
 
-💻 Tech Stack: Java | React | Node.js | MongoDB | <br>
+💻 Tech Stack: Java | JavaScript | React | Node.js | MongoDB | <br>
 🚀 Interests: Open Source, Blockchain, Competitive Programming<br1>
 <!--📫 Let's connect: [LinkedIn] [Portfolio]-->
 
